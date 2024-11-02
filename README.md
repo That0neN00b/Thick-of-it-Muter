@@ -9,6 +9,6 @@ How to Setup:
 3. Add it to your Custom Extensions
 4. Enjoy!
 
-I posted this because I didnt want to Spend 5 dollers to post a extension
+I posted this because I did not want to Spend 5 dollers to post a extension
 
 Hope you enjoy! Good Luck!
