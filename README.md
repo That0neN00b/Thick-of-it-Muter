@@ -1,7 +1,7 @@
 A "Thick of it" Muter
 
 How it works:
-it checks if the tab is loaded in then if it matches the URL of "https://www.youtube.com/watch?v=At8v_Yc044Y" (Thick of it YT URL) it mutes the tab and if its not it keeps it unmuted/unmutes it
+- it checks if the tab is loaded in then if it matches the URL of "https://www.youtube.com/watch?v=At8v_Yc044Y" (Thick of it YT URL) it mutes the tab and if its not it keeps it unmuted/unmutes it
 
 How to Setup:
 1. Make a folder
